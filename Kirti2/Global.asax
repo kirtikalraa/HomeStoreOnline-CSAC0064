@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Kirti2.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="kirti.Global" Language="C#" %>

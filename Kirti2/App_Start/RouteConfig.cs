@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace Kirti2
+namespace kirti
 {
     public static class RouteConfig
     {

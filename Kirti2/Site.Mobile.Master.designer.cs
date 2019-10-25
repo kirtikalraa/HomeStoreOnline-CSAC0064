@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Kirti2 {
+namespace kirti {
     
     
     public partial class Site_Mobile {

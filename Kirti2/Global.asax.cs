@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace Kirti2
+namespace kirti
 {
     public class Global : HttpApplication
     {
